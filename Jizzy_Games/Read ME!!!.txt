@@ -1,0 +1,6 @@
+Simple Game Puzzle
+------------------
+Have 3 level
+-Easy
+-Medium
+-Hard
